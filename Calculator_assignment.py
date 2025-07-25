@@ -10,7 +10,7 @@ operation = input("Choose an operation(+, -, *, /): ")
 if operation == '+':
   print("Result:" , num1 + num2)
 elif operation == '-':
-  print("Result:" ,  num1 - num2)
+  print("Result:" , num1 - num2)
 elif operation == '*':
   
   print("Result:" , num1 * num2)
